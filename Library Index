@@ -10,7 +10,6 @@ char author[40];
 int pages;
 float price;
 };
-
 int main()
 {
 struct library l[100];
@@ -87,8 +86,6 @@ break;
 case 6:
 exit (0); 
 
-}
-}
+}}
 return 0;
-
 }
